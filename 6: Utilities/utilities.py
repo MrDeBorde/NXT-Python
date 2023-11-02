@@ -2,7 +2,6 @@
 
 import nxt.locator
 import usb.core
-import time
 import itertools, sys
 
 spinner = itertools.cycle(['-', '/', '|', '\\'])

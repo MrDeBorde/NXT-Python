@@ -11,3 +11,12 @@ Testing the sound functionality of the the brick.
 
 ## 3: Motors
 Testing the action of motors with the brick.
+
+## 4: Sensors
+Starting to document the sensors
+
+## 5: Multiple Bricks
+A way to use multiple bricks with one program
+
+## 6: Utilities
+Utility code to include with functions. for example wating for brick(s) to be connected before starting code
