@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-"""Boiler """
+"""Boiler Plate code to organise your code """
 # import modules
 import time
 import nxt.locator
 # Need to import generic sensors for auto-detection to work.
 import nxt.sensor.generic
 
-# define functions to to tasks
+# define functions to do tasks
 def get_distance(sensor):
     return sensor.get_sample()
 
