@@ -5,7 +5,6 @@ import nxt.locator
 import nxt.motor
 
 
-
 def turn_motor(motor,speed,rotation):
     motor.turn(speed, rotation)
 

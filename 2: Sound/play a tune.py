@@ -22,8 +22,7 @@ def main():
       with nxt.locator.find() as b:
       # Once found, print its name.
             print("Found brick:", b.get_device_info()[0])
-            
-
+      
             playTone(b,MIDDLE_C, 250)
             playTone(b,MIDDLE_A, 250)
             playTone(b,MIDDLE_C, 250)
